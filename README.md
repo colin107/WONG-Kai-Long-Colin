@@ -28,7 +28,7 @@ Fought for qualities of living and convenience for residents toward the college 
 ### Silver Award for Volunteer Service (Jan 2014-Dec 2014)
 Contributed more than 100 hours of volunteer service to the community in 2014
 ## Skills
-#### **Programming** Python, SQL, C/C++, Java, HTML, XML, C#, Cobol, Fortran, Prolog, Perl, Linux/Unix 
-#### **Software**    Proficiency in MS Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator
-#### **Languages**   Cantonese (Native), English (Professional), Mandarin (Professional)
+#### **Programming**: Python, SQL, C/C++, Java, HTML, XML, C#, Cobol, Fortran, Prolog, Perl, Linux/Unix 
+#### **Software**:    Proficiency in MS Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator
+#### **Languages**:   Cantonese (Native), English (Professional), Mandarin (Professional)
 

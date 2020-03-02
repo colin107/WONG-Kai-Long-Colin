@@ -5,7 +5,7 @@ curiosity in technology and keen to establish a career in computer vision and ma
 ## Education
 #### The Chinese University Of Hong Kong (CUHK) 
 #### BSc of Computer Science (Sep 2017-Present)
-* Major Course: Computational Imaging and Vision, Introduction to Multimedia Systems, Data Structures, Design and Analysis of Algorithms, Intro to Database Systems, Basic Concepts in Statistics and Probability II, Probability and Statistics for Engineers, Linear Algebra and Vector Calculus, Discrete Mathematics for Engineers, Intro to Operating Systems, Principles of Programming Languages, Software Engineering
+* **Major Course:** Computational Imaging and Vision, Introduction to Multimedia Systems, Data Structures, Design and Analysis of Algorithms, Intro to Database Systems, Basic Concepts in Statistics and Probability II, Probability and Statistics for Engineers, Linear Algebra and Vector Calculus, Discrete Mathematics for Engineers, Intro to Operating Systems, Principles of Programming Languages, Software Engineering
 ## Professional Experience
 #### Shanghai Xiaoi Robot Technology Co. Ltd 
 #### Algorithm Engineering Intern – Vision Research and Development Department (Jul 2019-Aug 2019)

@@ -1,6 +1,6 @@
 # WONG-Kai-Long-Colin
-* Proactive Computer Science student with work experience at Xiaoi Shanghai Vision Research and Development Department.
-Technical skills such as Python, Multimedia Systems, Computer Vision, Computational Imaging, C/C++, K-means clustering developed through bachelor degree and self-learning. Great
+* CUHK Computer Science student with work experience at Xiaoi Shanghai Vision Research and Development Department.
+Technical skills such as Python, SQL, C/C++, Java, Web application through bachelor degree and self-learning. Great
 curiosity in technology and keen to establish a career in computer vision.
 ## Education
 #### The Chinese University Of Hong Kong (CUHK) 
